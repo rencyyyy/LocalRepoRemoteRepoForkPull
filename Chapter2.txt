@@ -1,0 +1,3 @@
+Building the Foundation
+
+An IT strategy was established, focusing on scalability, security, and efficiency. Cross-functional teams were formed, cloud adoption was prioritized, and governance frameworks were put in place to ensure every change aligned with long-term business goals.
